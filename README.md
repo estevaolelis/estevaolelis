@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there, my name is Estêvão, I am a student at UNIP (Universidade Paulista) and am about to study HTML, CSS, Javascript, and C#.
+Hello there, my name is Estêvão, I am a student and am about to study HTML, CSS, Javascript, and C#.
 
 
 ## 🌐 Socials:
