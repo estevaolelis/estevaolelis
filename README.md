@@ -33,8 +33,8 @@ I'm passionate about technology, problem-solving, and building projects that mak
 
 ## 📈 GitHub Stats  
 
-![Estêvão's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dracula)  
+![Estêvão's GitHub stats](https://github-readme-stats.vercel.app/api?username=estevaolelis&show_icons=true&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estevaolelis&layout=compact&theme=dracula)  
 
 ---
 
