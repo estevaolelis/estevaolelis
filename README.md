@@ -1,7 +1,8 @@
 <div align="center">
   <h1>👋 Hi, I'm Estêvão</h1>
   <p>
-    I'm passionate about technology, problem-solving, and building projects that make an impact.
+    I love breaking things just as much as I love building them. <br/>
+    Currently crafting backend systems in .NET while exploring the full-stack world.
   </p>
 
   <a href="https://www.linkedin.com/in/estevaolelis">
