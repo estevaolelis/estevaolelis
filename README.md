@@ -14,6 +14,12 @@
 
 <br />
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=estevaolelis&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" />
+</div>
+
+<br />
+
 ### 🚀 About Me
 
 - 💻 **Primary stack:** **C#** and **.NET** (APIs, backend, integration testing).
@@ -64,9 +70,5 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=estevaolelis&theme=dracula&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=estevaolelis&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaolelis&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
+  <img src="https://metrics.lecoq.io/estevaolelis?template=classic&base=header,activity,community,repositories,metadata&config.timezone=America%2FSao_Paulo&config.order=base.header,base.repositories,base.activity+community" width="95%" alt="Metrics" />
 </div>
