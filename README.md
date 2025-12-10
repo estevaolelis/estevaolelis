@@ -64,6 +64,9 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=estevaolelis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaolelis&layout=compact&theme=dracula"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=estevaolelis&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=estevaolelis&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaolelis&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
 </div>
