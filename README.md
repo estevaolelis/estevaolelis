@@ -1,6 +1,6 @@
 # <div align="center">👋 Hi, I'm Estêvão Lélis </div>
 
-**`Fullstack Developer | .NET & React Enthusiast`**
+**`Fullstack Developer | .NET & React`**
 
 I'm a 21-year-old developer based in Brazil, currently pursuing a degree in **Systems Analysis and Development**.
 
