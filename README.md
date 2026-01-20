@@ -4,7 +4,7 @@
 
 I'm a 21-year-old developer based in Brazil, currently pursuing a degree in **Systems Analysis and Development**.
 
-I work at [TMB](https://www.tmb.com.br/), a fintech company specializing in installment payment solutions ("boleto parcelado"). My focus is on developing robust fullstack projects, driven by a passion for learning new technologies and leveraging the power of programming to solve real-world problems.
+I work at [TMB](https://www.tmb.com.br/), a fintech in specializing in Buy Now, Pay Later (BNPL) solutions. I love digging into new tech stacks and using code to create practical, high-impact solutions.
 
 ---
 
