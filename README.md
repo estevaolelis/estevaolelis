@@ -1,10 +1,10 @@
 # <div align="center">👋 Hi, I'm Estêvão Lélis </div>
 
-**`Fullstack Developer | .NET & React`**
+**`Fullstack Developer | .NET, Go & React`**
 
 I'm a 21-year-old developer based in Brazil, currently pursuing a degree in **Systems Analysis and Development**.
 
-I work at [TMB](https://www.tmb.com.br/), a fintech in specializing in Buy Now, Pay Later (BNPL) solutions. I love digging into new tech stacks and using code to create practical, high-impact solutions.
+I work at [TMB](https://www.tmb.com.br/), a fintech specializing in Buy Now, Pay Later (BNPL) solutions. I love digging into new tech stacks and using code to create practical, high-impact solutions.
 
 ---
 
@@ -14,6 +14,7 @@ I work at [TMB](https://www.tmb.com.br/), a fintech in specializing in Buy Now, 
 <br>
 <img align="left" alt="C#" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
 <img align="left" alt=".NET" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/>
+<img align="left" alt="Go" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/>
 <img align="left" alt="PostgreSQL" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 <br><br>
 
