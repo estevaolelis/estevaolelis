@@ -1,6 +1,6 @@
 # <div align="center">👋 Hi, I'm Estêvão Lélis </div>
 
-**`Fullstack Developer | .NET, Go & React`**
+**`Fullstack Developer | .NET, Java, Go & React`**
 
 I'm a 21-year-old developer based in Brazil, currently pursuing a degree in **Systems Analysis and Development**.
 
@@ -14,6 +14,8 @@ I work at [TMB](https://www.tmb.com.br/), a fintech specializing in Buy Now, Pay
 <br>
 <img align="left" alt="C#" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
 <img align="left" alt=".NET" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/>
+<img align="left" alt="Java" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
 <img align="left" alt="Go" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/>
 <img align="left" alt="PostgreSQL" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 <br><br>
@@ -31,6 +33,7 @@ I work at [TMB](https://www.tmb.com.br/), a fintech specializing in Buy Now, Pay
 <img align="left" alt="Linux" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
 <img align="left" alt="Azure DevOps" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg"/>
 <img align="left" alt="Postman" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
+<img align="left" alt="Docker" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
 <br><br>
 
 ---
