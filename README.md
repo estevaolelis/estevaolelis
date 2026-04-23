@@ -4,8 +4,9 @@
 
 I'm a 21-year-old developer based in Brazil, currently pursuing a degree in **Systems Analysis and Development**.
 
-I work at [TMB](https://www.tmb.com.br/), a fintech specializing in Buy Now, Pay Later (BNPL) solutions. I love digging into new tech stacks and using code to create practical, high-impact solutions.
+I specialize in backend development, translating business logic into clean, SOLID code. Passionate about exploring new tech stacks—from .NET to Go—to find the right tool for the job while maintaining strict standards for performance and quality.
 
+🚀 Open to new opportunities.
 ---
 
 ### 🛠 Languages and Tools
